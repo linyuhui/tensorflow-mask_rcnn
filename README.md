@@ -11,7 +11,7 @@
 ## Requirements
 
 - python3
-- tensorflow >= 1.8.0 
+- tensorflow >= 1.12.0 
 - opencv-python
 - scikit-image
 
